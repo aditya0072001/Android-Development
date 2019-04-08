@@ -1,2 +1,2 @@
-# Android-Development
-Android Apps
+# Reversed
+Android app to reverse user given input
